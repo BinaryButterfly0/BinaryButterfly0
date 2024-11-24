@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BinaryButterfly0  
+- 👀 I’m interested in exploring the fascinating world of cybersecurity, ethical hacking, and digital forensics.  
+-🌱 I’m currently learning AI-driven threat detection, post-quantum cryptographic protocols, and advanced persistent threat (APT) simulation.    
+- 💞️ I’m looking to collaborate on open-source cybersecurity tools, vulnerability assessments, and threat modeling projects.  
+- 📫 How to reach me: --   
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can talk for hours about zero-day exploits and still find time to dive into coding challenges for fun!  
