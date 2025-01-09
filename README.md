@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BinaryButterfly0  
+- 👋 Hi, I’m BinaryButterfly
 - 👀 I’m interested in exploring the fascinating world of cybersecurity, ethical hacking, and digital forensics.  
 -🌱 I’m currently learning AI-driven threat detection, post-quantum cryptographic protocols, and advanced persistent threat (APT) simulation.    
 - 💞️ I’m looking to collaborate on open-source cybersecurity tools, vulnerability assessments, and threat modeling projects.  
